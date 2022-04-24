@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @SzymonGil
-- 👀 I’m interested in playing games like minecraft and leauge of legends
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python 
