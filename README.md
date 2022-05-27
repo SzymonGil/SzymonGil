@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @SzymonGil
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python 🐍
+
