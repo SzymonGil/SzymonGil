@@ -1,4 +1,4 @@
-- 👀python enthusiast
+- 👀python enthusiast learning SQL
 
 
 
